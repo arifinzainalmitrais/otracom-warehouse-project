@@ -53,13 +53,12 @@ DundasMigration/
 
 | Epic | Project/Folder | Description |
 |------|---------------|-------------|
-| EPIC-1 | scripts/discovery/ | ETL discovery scripts |
-| EPIC-2 | scripts/discovery/ | Fact table source mapping |
-| EPIC-3 | src/Database/NewETLProcs/ | New ETL stored procedures |
-| EPIC-4 | src/Database/Warehouse/ | Star schema DDL + merge procs |
-| EPIC-5 | src/ADF/ | ADF pipeline ARM templates |
-| EPIC-6 | src/PowerBI/ | Power BI semantic models |
-| EPIC-7 | tests/Database.Tests/ | Reconciliation test scripts |
-| EPIC-8 | src/Infrastructure/ | Key Vault + Entra ID config |
-| EPIC-9 | src/Functions/ + src/Database/StagingRefactor/ | Staging copy + refactoring |
-| EPIC-10 | pipelines/ + src/Infrastructure/ | CI/CD + IaC |
+| EPIC-1 | src/Database/NewETLProcs/ | New ETL stored procedures |
+| EPIC-2 | src/Database/Warehouse/ | Star schema DDL + merge procs |
+| EPIC-3 | src/ADF/ | ADF pipeline ARM templates |
+| EPIC-4 | src/PowerBI/ | Power BI semantic models |
+| EPIC-5 | tests/Database.Tests/ | Reconciliation test scripts |
+| EPIC-6 | src/Infrastructure/ | Key Vault + Entra ID config |
+| EPIC-7 | pipelines/ + src/Infrastructure/ | CI/CD + IaC |
+| EPIC-8 | src/Functions/ + src/Database/StagingRefactor/ | Staging copy + refactoring |
+
