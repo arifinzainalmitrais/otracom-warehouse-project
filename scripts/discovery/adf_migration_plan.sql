@@ -1,0 +1,2 @@
+-- adf_migration_plan.sql
+-- TODO: implement as part of the corresponding EPIC

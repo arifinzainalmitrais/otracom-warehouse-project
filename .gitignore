@@ -1,0 +1,34 @@
+# Build
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+*.DotSettings
+
+# Azure Functions
+local.settings.json
+
+# Power BI
+*.pbix
+*.pbit
+
+# Terraform / Bicep
+.terraform/
+*.tfstate*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive
+*.pfx
+*.key
+appsettings.*.json
+!appsettings.json

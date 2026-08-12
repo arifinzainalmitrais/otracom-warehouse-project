@@ -1,0 +1,2 @@
+-- 04_setup_target.sql
+-- TODO: implement as part of the corresponding EPIC

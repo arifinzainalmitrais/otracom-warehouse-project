@@ -1,0 +1,2 @@
+-- Tables/Staging/stage.CheckIn.sql
+-- TODO: implement as part of the corresponding EPIC

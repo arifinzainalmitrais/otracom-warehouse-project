@@ -1,0 +1,2 @@
+-- Tables/Facts/FactCurrentPerformanceSummary.sql
+-- TODO: implement as part of the corresponding EPIC

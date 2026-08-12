@@ -1,0 +1,2 @@
+-- Tables/Audit/audit.CopyWatermark.sql
+-- TODO: implement as part of the corresponding EPIC

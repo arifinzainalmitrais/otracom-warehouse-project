@@ -1,0 +1,2 @@
+-- 03_simulate_events.sql
+-- TODO: implement as part of the corresponding EPIC

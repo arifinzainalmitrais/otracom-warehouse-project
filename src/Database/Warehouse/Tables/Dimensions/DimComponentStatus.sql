@@ -1,0 +1,2 @@
+-- Tables/Dimensions/DimComponentStatus.sql
+-- TODO: implement as part of the corresponding EPIC

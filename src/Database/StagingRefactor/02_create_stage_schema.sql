@@ -1,0 +1,2 @@
+-- 02_create_stage_schema.sql
+-- TODO: implement as part of the corresponding EPIC

@@ -1,0 +1,2 @@
+-- Tables/Facts/FactOperational.sql
+-- TODO: implement as part of the corresponding EPIC
